@@ -34,27 +34,22 @@ $ cd NLW-Ecoleta/server
 
 # Install dependencies
 $ npm install
-
 Or:
-
 $ yarn install
+
 # Run Migrates
 $ npx knex migrate:latest --knexfile knexfile.ts
-
 or:
-
 $ yarn knex:migrate
+
 # Run Seeds
 $ npx knex seed:run --knexfile knexfile.ts
-
 or:
-
 $ yarn knex:seed
+
 # Start server
 $ npm run dev
-
 or:
-
 $ yarn dev
 
 running on port 3333
