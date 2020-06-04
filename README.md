@@ -12,7 +12,7 @@ Ecoleta is a project developed to connect people to companies that collect recyc
 
 ## Layout
 
-To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
+To access the layout use [Figma](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1).
 
 ## Application Folders
 - Back-end: server
