@@ -4,11 +4,11 @@ Ecoleta is a project developed to connect people to companies that collect recyc
 
 ## Technologies
 
-- [Node.js][nodejs]
-- [TypeScript][typescript]
-- [React][reactjs]
-- [React Native][React Native]
-- [SQLite][SQLite]
+- Node.js
+- TypeScript
+- React
+- React Native
+- SQLite
 
 ## Layout
 
