@@ -27,7 +27,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), Node.
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/Mvsrodri/Next-Level-Week.git
 
 # Go into the repository
 $ cd NLW-Ecoleta/server
