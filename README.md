@@ -1,14 +1,23 @@
 ## Project
 
-Ecoleta is a project developed to connect people to companies that collect recyclable materials such as light bulbs, batteries, cooking oil, etc.
+Ecoleta is a project developed in Next Level Week from Rocketseat to connect people to companies that collect recyclable materials such as light bulbs, batteries, cooking oil, etc.
 
 ## Technologies
 
-- Node.js
-- TypeScript
-- React
-- React Native
-- SQLite
+- [**Node.js**](https://nodejs.org/en/)
+- [**Expo**](https://expo.io/)
+- [**Express**](https://expressjs.com/pt-br/)
+- [**React**](https://pt-br.reactjs.org/) 
+- [**React Native**](https://reactnative.dev/) 
+- [**TypeScript**](https://www.typescriptlang.org/)
+
+## Libraries 
+
+ - [**Express**](https://expressjs.com/pt-br/)
+ - [**SQLite3**](https://www.sqlite.org/index.html)
+ - [**KnexJS**](http://knexjs.org/)
+ - [**Axios**](https://github.com/axios/axios)
+ - [**Leaflet**](https://leafletjs.com/)
 
 ## Layout
 
@@ -23,14 +32,14 @@ To access the layout use [Figma](https://www.figma.com/file/9TlOcj6l7D05fZhU12xW
 To clone and run this application, you'll need [Git](https://git-scm.com), Node.js + Npm or Yarn installed on your computer.
 
 
-### Install API
+### Install Server
 
 ```bash
 # Clone this repository
 $ git clone https://github.com/Mvsrodri/Next-Level-Week.git
 
 # Go into the repository
-$ cd NLW-Ecoleta/server
+$ cd Next-Level-Week-master/server
 
 # Install dependencies
 $ npm install
@@ -53,4 +62,48 @@ or:
 $ yarn dev
 
 running on port 3333
+```
+### Install Web
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Mvsrodri/Next-Level-Week.git
+
+# Go into the repository
+$ cd Next-Level-Week-master/web
+
+# Install dependencies
+$ npm install
+Or:
+$ yarn install
+
+# Run
+$ npm start
+or
+$ yarn start
+
+# running on port 3000
+```
+
+### Install Mobile
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Mvsrodri/Next-Level-Week.git
+
+# Go into the repository
+$ cd Next-Level-Week-master/mobile
+
+# Install dependencies
+$ npm install
+Or:
+$ yarn install
+
+# Run
+$ npm start
+or
+$ yarn start
+
+# Expo will open, just scan the qrcode on expo page
+
 ```
