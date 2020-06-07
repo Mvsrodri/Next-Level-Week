@@ -43,7 +43,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), Node.
 $ git clone https://github.com/Mvsrodri/Next-Level-Week.git
 
 # Go into the repository
-$ cd Next-Level-Week-master/server
+$ cd Next-Level-Week/server
 
 # Install dependencies
 $ npm install
@@ -74,7 +74,7 @@ running on port 3333
 $ git clone https://github.com/Mvsrodri/Next-Level-Week.git
 
 # Go into the repository
-$ cd Next-Level-Week-master/web
+$ cd Next-Level-Week/web
 
 # Install dependencies
 $ npm install
@@ -96,7 +96,7 @@ $ yarn start
 $ git clone https://github.com/Mvsrodri/Next-Level-Week.git
 
 # Go into the repository
-$ cd Next-Level-Week-master/mobile
+$ cd Next-Level-Week/mobile
 
 # Install dependencies
 $ npm install
