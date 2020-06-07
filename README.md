@@ -9,19 +9,18 @@ Ecoleta is a project developed in Next Level Week from Rocketseat to connect peo
 
 ## Technologies
 
+- [**TypeScript**](https://www.typescriptlang.org/)
+- [**React**](https://pt-br.reactjs.org/) 
+- [**React Native**](https://reactnative.dev/) 
 - [**Node.js**](https://nodejs.org/en/)
 - [**Expo**](https://expo.io/)
 - [**Express**](https://expressjs.com/pt-br/)
-- [**React**](https://pt-br.reactjs.org/) 
-- [**React Native**](https://reactnative.dev/) 
-- [**TypeScript**](https://www.typescriptlang.org/)
 
 ## Libraries 
 
- - [**Express**](https://expressjs.com/pt-br/)
- - [**SQLite3**](https://www.sqlite.org/index.html)
  - [**KnexJS**](http://knexjs.org/)
  - [**Axios**](https://github.com/axios/axios)
+ - [**SQLite3**](https://www.sqlite.org/index.html)
  - [**Leaflet**](https://leafletjs.com/)
 
 ## Layout
