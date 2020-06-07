@@ -1,3 +1,8 @@
+<h4 align="center">
+
+<img src="web/src/assets/logo.svg" width="250px" />
+</h4>
+
 ## Project
 
 Ecoleta is a project developed in Next Level Week from Rocketseat to connect people to companies that collect recyclable materials such as light bulbs, batteries, cooking oil, etc.
