@@ -121,6 +121,6 @@ $ yarn start
 
 ## Contact
 
-**Linkedin**: [Marcos Vinicius](linkedin.com/in/marcos-vinicius-dos-santos-rodrigues-1a2b39195)
+**Linkedin**: [Marcos Vinicius](https://www.linkedin.com/in/marcos-vinicius-dos-santos-rodrigues-1a2b39195/)
 
 **Email**: mvsrodri00@gmail.com
