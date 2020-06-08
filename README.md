@@ -27,7 +27,7 @@ Ecoleta is a project developed in Next Level Week from Rocketseat to connect peo
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Insomnia](https://insomnia.rest/download/)
-- [Expo](https://docs.expo.io/)
+- [Expo](https://expo.io/tools)
 - Mobile Device
 
 ## Layout
