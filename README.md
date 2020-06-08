@@ -23,6 +23,13 @@ Ecoleta is a project developed in Next Level Week from Rocketseat to connect peo
  - [**SQLite3**](https://www.sqlite.org/index.html)
  - [**Leaflet**](https://leafletjs.com/)
 
+## Tools
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Insomnia](https://insomnia.rest/download/)
+- [Expo](https://docs.expo.io/)
+- Mobile Device
+
 ## Layout
 
 To access the layout use [Figma](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1).
@@ -111,3 +118,9 @@ $ yarn start
 # Expo will open, just scan the qrcode on expo page
 
 ```
+
+## Contact
+
+**Linkedin**: [Marcos Vinicius](linkedin.com/in/marcos-vinicius-dos-santos-rodrigues-1a2b39195)
+
+**Email**: mvsrodri00@gmail.com
