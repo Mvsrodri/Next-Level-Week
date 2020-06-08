@@ -34,7 +34,7 @@ Ecoleta is a project developed in Next Level Week from Rocketseat to connect peo
 
 To access the layout use [Figma](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1).
 
-### Application Folders
+### :memo: Application Folders
 - Back-end: server
 - Front-end: web
 
