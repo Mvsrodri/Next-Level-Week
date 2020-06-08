@@ -3,11 +3,11 @@
 <img src="web/src/assets/logo.svg" width="250px" />
 </h4>
 
-♻️### Project
+### ♻️ Project
 
 Ecoleta is a project developed in Next Level Week from Rocketseat to connect people to companies that collect recyclable materials such as light bulbs, batteries, cooking oil, etc.
 
-#🚀 Technologies
+### 🚀 Technologies
 
 - [**TypeScript**](https://www.typescriptlang.org/)
 - [**React**](https://pt-br.reactjs.org/) 
@@ -16,34 +16,34 @@ Ecoleta is a project developed in Next Level Week from Rocketseat to connect peo
 - [**Expo**](https://expo.io/)
 - [**Express**](https://expressjs.com/pt-br/)
 
-#📚 Libraries 
+### 📚 Libraries
 
  - [**KnexJS**](http://knexjs.org/)
  - [**Axios**](https://github.com/axios/axios)
  - [**SQLite3**](https://www.sqlite.org/index.html)
  - [**Leaflet**](https://leafletjs.com/)
 
-#:hammer: Tools
+### :hammer: Tools
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Insomnia](https://insomnia.rest/download/)
 - [Expo](https://expo.io/tools)
 - Mobile Device
 
-#:art: Layout
+### :art: Layout
 
 To access the layout use [Figma](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1).
 
-# Application Folders
+### Application Folders
 - Back-end: server
 - Front-end: web
 
-#:information_source: How To Use
+### :information_source: How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), Node.js + Npm or Yarn installed on your computer.
 
 
-#💻 Install Server
+### 💻 Install Server
 
 ```bash
 # Clone this repository
@@ -74,7 +74,7 @@ $ yarn dev
 
 running on port 3333
 ```
-#💻 Install Web
+### 💻 Install Web
 
 ```bash
 # Clone this repository
@@ -96,7 +96,7 @@ $ yarn start
 # running on port 3000
 ```
 
-#📱 Install Mobile
+### 📱 Install Mobile
 
 ```bash
 # Clone this repository
@@ -119,7 +119,7 @@ $ yarn start
 
 ```
 
-##:speech_balloon: Contact
+### :speech_balloon: Contact
 
 **Linkedin**: [Marcos Vinicius](https://www.linkedin.com/in/marcos-vinicius-dos-santos-rodrigues-1a2b39195/)
 
