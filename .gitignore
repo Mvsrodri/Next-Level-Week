@@ -1,6 +1,5 @@
 server/package-look.json
 server/node_modules
-server/*.sqlite
 
 web/node_modules
 
